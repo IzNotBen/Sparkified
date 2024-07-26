@@ -1,15 +1,15 @@
 # TODO
 
 - Main (Aimed to be completed.)
- - OAuth2 needs to be fixed, somehow the program is not handling refresh tokens properly.
- - Better Server Integration; Spark seems to be missing some freatures that many users appreciated, aiming to repair or reporpose them.
+-- OAuth2 needs to be fixed, somehow the program is not handling refresh tokens properly.
+-- Better Server Integration; Spark seems to be missing some freatures that many users appreciated, aiming to repair or reporpose them.
 
 - On my list
- - Fixing TTS; many players greatly appreciate TTS, and I may be able to incorporate an alternative.
- - Creating a new database; I may be able to host a new database for player stat tracking and for recording personalised player info as well.
+-- Fixing TTS; many players greatly appreciate TTS, and I may be able to incorporate an alternative.
+-- Creating a new database; I may be able to host a new database for player stat tracking and for recording personalised player info as well.
 
 - Unlikely but possible
- - Creating a new bot; By creating a new discord application, it can be integrated into servers for convinient stack checking and may also fix other authentication related issues.
+-- Creating a new bot; By creating a new discord application, it can be integrated into servers for convinient stack checking and may also fix other authentication related issues.
 
 ## Spark
 Download and features list:  
